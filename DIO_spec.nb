@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       157,          7]
-NotebookDataLength[     38833,       1100]
-NotebookOptionsPosition[     38553,       1085]
-NotebookOutlinePosition[     38930,       1102]
-CellTagsIndexPosition[     38887,       1099]
+NotebookDataLength[     38887,       1102]
+NotebookOptionsPosition[     38580,       1086]
+NotebookOutlinePosition[     38957,       1103]
+CellTagsIndexPosition[     38914,       1100]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -1077,6 +1077,7 @@ Cell[BoxData[{
          RowBox[{"J", "+", "1"}], ")"}]}], ",", 
        RowBox[{"-", "J"}], ",", "1"}], "}"}]}], "]"}], ";"}], 
   "\[IndentingNewLine]"}], "\[IndentingNewLine]"}], "Input",
+ InitializationCell->True,
  CellChangeTimes->{{3.647004363885166*^9, 3.647004363885818*^9}, {
   3.647005281883609*^9, 3.647005305225926*^9}, {3.6470053478706512`*^9, 
   3.64700534820674*^9}, {3.647005976335095*^9, 3.64700597667093*^9}, {
@@ -1101,7 +1102,8 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[557, 20, 37992, 1063, 1661, "Input"]
+Cell[557, 20, 38019, 1064, 1661, "Input",
+ InitializationCell->True]
 }
 ]
 *)
