@@ -21,10 +21,8 @@ geI[k_,Ee_]:=geI[k,Ee]=Evaluate[Interpolation[Evaluate[Table[{r,ge[r,k,Ee]},{r,1
 feI[k_,Ee_]:=feI[k,Ee]=Evaluate[Interpolation[Evaluate[Table[{r,fe[r,k,Ee]},{r,10^-6,NumBR BohrRadius,0.05}]]]];
 
 S0[k_?NumericQ,kappa_?NumericQ,J_?NumericQ,Ee_?NumericQ]:=Module[{jk=Abs[kappa]-1/2,lk},
-Print["Calculating S0"];
 lk=jk+1/2 kappa/Abs[kappa];1/2*NIntegrate[r^2 SphericalBesselJ[J,k r] ((1+(-1)^(lk+J)) (1+kappa) (geI[kappa,Ee][r] G[r]-feI[kappa,Ee][r] F[r])+I (1-(-1)^(lk+J)) (1-kappa) (feI[kappa,Ee][r] G[r]+geI[kappa,Ee][r] F[r])),{r,rinit,NumBR BohrRadius}]];
 S1[k_?NumericQ,kappa_?NumericQ,J_?NumericQ,Ee_?NumericQ]:=Module[{jk=Abs[kappa]-1/2,lk},
-Print["Calculating S1"];
 lk=jk+1/2 kappa/Abs[kappa];1/2*NIntegrate[r^2 SphericalBesselJ[J+1,k r] ((1+(-1)^(lk+J)) ((J+kappa+2) geI[kappa,Ee][r] F[r]+(kappa-J) feI[kappa,Ee][r] G[r])+I (1-(-1)^(lk+J)) ((J-kappa+2) feI[kappa,Ee][r] F[r]+(J+kappa) geI[kappa,Ee][r] G[r])),{r,rinit,NumBR BohrRadius}]];
 Sm1[k_?NumericQ,kappa_?NumericQ,J_?NumericQ,Ee_?NumericQ]:=Module[{jk=Abs[kappa]-1/2,lk},
 lk=jk+1/2 kappa/Abs[kappa];1/2*NIntegrate[r^2 SphericalBesselJ[J-1,k r] ((1+(-1)^(lk+J)) ((1+kappa-J) geI[kappa,Ee][r] F[r]+(J+kappa+1) feI[kappa,Ee][r] G[r])+I (1-(-1)^(lk+J)) ((1-kappa-J) feI[kappa,Ee][r] F[r]-(J-kappa+1) geI[kappa,Ee][r] G[r])),{r,rinit,NumBR BohrRadius}]];
@@ -42,10 +40,10 @@ lk=jk+1/2 kappa/Abs[kappa];
 
 Emin=10^-5;
 Emax=Efm;
-Estep =0.1;
+Estep =0.005;
 Jmin=1;
 Jmax=31;
-name="test_Zal.1_j";
+name="Zal.1_j";
 dd=".dat";
 Print["J=0"];
 specJ0=ParallelTable[{Ee,1/(4 Ee^2)NEeJ0[Ee,0,-1] },{Ee,Emin,Emax,Estep}];
@@ -53,7 +51,7 @@ Export["Zal0.1_j0.dat",specJ0];
 Do[Print["J=",J];
 Print["kappa=",kappa];
 specJ=ParallelTable[{Ee,1/(4 Ee^2)NEe[Ee,J,kappa] },{Ee,Emin,Emax,Estep}];
-Export[name<>ToString[J]<>"_k"<>ToString[kappa]<>dd,specJ];
+Export[name<>ToString[J]<>"_k"<>ToString[kappa+J]<>dd,specJ];
 ,{J,Jmin,Jmax,1},{kappa,-(J+1),-J,1}];
 
 
