@@ -39,3 +39,7 @@ In[33]:= Launching kernels...
 In[34]:= 
 In[35]:= J=1
 kappa=-2
+J=1
+kappa=-1
+J=2
+kappa=-3
