@@ -4346,3 +4346,11 @@ General::stop: Further output of NIntegrate::ncvb
      will be suppressed during this calculation.
 J=16
 kappa=-17
+From KernelObject[1, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = 
+    {0.319339800810539981099772655070978544245008379220962524414062500000}
+                                    -16               -22
+    . NIntegrate obtained 2.67661 10    and 3.38351 10
+     for the integral and error estimates.
