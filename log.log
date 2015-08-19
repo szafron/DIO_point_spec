@@ -1943,3 +1943,1851 @@ NIntegrate::ncvb:
      recursive bisections in kk near {kk} = {0.160761}. NIntegrate obtained 
                             -9
     0.000293827 and 1.215 10   for the integral and error estimates.
+From KernelObject[3, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[4, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.23806}. NIntegrate obtained 
+              -8               -10
+    1.23676 10   and 2.23034 10    for the integral and error estimates.
+From KernelObject[3, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.366134}. NIntegrate obtained 
+              -10               -14
+    9.87112 10    and 9.85207 10    for the integral and error estimates.
+From KernelObject[5, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = 
+    {0.479407346774354063342893361721053224755451083183288574218750000000}
+                                    -6              -12
+    . NIntegrate obtained 1.17041 10   and 6.9914 10
+     for the integral and error estimates.
+From KernelObject[2, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[4, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[2, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.254948}. NIntegrate obtained 
+              -11               -15
+    1.14298 10    and 3.28205 10    for the integral and error estimates.
+From KernelObject[4, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.397197}. NIntegrate obtained 
+              -9               -13
+    6.86001 10   and 1.13818 10    for the integral and error estimates.
+From KernelObject[1, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.311243}. NIntegrate obtained 
+              -11               -15
+    4.01511 10    and 9.03045 10    for the integral and error estimates.
+From KernelObject[2, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[2, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.280951}. NIntegrate obtained 
+              -11               -12
+    1.13349 10    and 2.35937 10    for the integral and error estimates.
+From KernelObject[5, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = 
+    {0.481056592458183595976961566265117653529159724712371826171875000000}
+                                    -7               -12
+    . NIntegrate obtained 3.40765 10   and 2.76706 10
+     for the integral and error estimates.
+From KernelObject[12, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.297666}. NIntegrate obtained 
+              -12               -15
+    3.46385 10    and 4.80242 10    for the integral and error estimates.
+From KernelObject[11, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.3896236625322869}
+                                    -10               -14
+    . NIntegrate obtained 1.54915 10    and 4.39654 10
+     for the integral and error estimates.
+From KernelObject[2, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.280199}. NIntegrate obtained 
+              -12               -15
+    7.04501 10    and 7.87287 10    for the integral and error estimates.
+From KernelObject[2, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[3, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[1, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = 
+    {0.365599905221845570754690690762345184339210391044616699218750000000}
+                                    -11               -14
+    . NIntegrate obtained 3.10428 10    and 2.33844 10
+     for the integral and error estimates.
+From KernelObject[4, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.39459}. NIntegrate obtained 
+              -9              -14
+    4.44043 10   and 8.0312 10    for the integral and error estimates.
+From KernelObject[4, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[5, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = 
+    {0.471675788522334596061802436395282711600884795188903808593750000000}
+                                    -7               -13
+    . NIntegrate obtained 1.33519 10   and 9.97449 10
+     for the integral and error estimates.
+From KernelObject[5, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[4, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[12, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.3029871492561340}
+                                    -12               -15
+    . NIntegrate obtained 2.72736 10    and 6.08426 10
+     for the integral and error estimates.
+From KernelObject[2, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[2, local]:
+General::stop: Further output of NIntegrate::slwcon
+     will be suppressed during this calculation.
+From KernelObject[3, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.317056}. NIntegrate obtained 
+              -10               -14
+    7.06677 10    and 1.43458 10    for the integral and error estimates.
+From KernelObject[11, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[1, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[11, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.316273}. NIntegrate obtained 
+              -10               -12
+    1.20866 10    and 3.88722 10    for the integral and error estimates.
+From KernelObject[9, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[9, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.199915}. NIntegrate obtained 
+              -14               -17
+    3.10942 10    and 9.38443 10    for the integral and error estimates.
+From KernelObject[6, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.133957}. NIntegrate obtained 
+              -15               -16
+    9.16494 10    and 3.62281 10    for the integral and error estimates.
+From KernelObject[10, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[7, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.2606845505606606}
+                                    -13               -15
+    . NIntegrate obtained 3.36398 10    and 1.05132 10
+     for the integral and error estimates.
+From KernelObject[10, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = 
+    {0.288660585343018470314002676957443327410146594047546386718750000000}
+                                    -12               -15
+    . NIntegrate obtained 1.07395 10    and 1.81207 10
+     for the integral and error estimates.
+From KernelObject[1, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.293676}. NIntegrate obtained 
+              -11               -15
+    2.40937 10    and 4.21438 10    for the integral and error estimates.
+From KernelObject[1, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[12, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = 
+    {0.300470747289496522072771433897742099361494183540344238281250000000}
+                                    -12               -15
+    . NIntegrate obtained 2.15781 10    and 1.21771 10
+     for the integral and error estimates.
+From KernelObject[12, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[3, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = 
+    {0.409106630287119561392716882153308688430115580558776855468750000000}
+                                    -10               -14
+    . NIntegrate obtained 5.12031 10    and 6.22762 10
+     for the integral and error estimates.
+From KernelObject[3, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[8, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.2378582485359557}
+                                    -13               -16
+    . NIntegrate obtained 1.03873 10    and 1.98495 10
+     for the integral and error estimates.
+From KernelObject[11, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[1, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[11, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.309984}. NIntegrate obtained 
+              -11               -14
+    8.89281 10    and 2.76111 10    for the integral and error estimates.
+From KernelObject[11, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[9, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.201916}. NIntegrate obtained 
+              -14               -16
+    2.50647 10    and 6.44429 10    for the integral and error estimates.
+From KernelObject[7, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[12, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[2, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.139763}. NIntegrate obtained 
+              -15               -16
+    2.50532 10    and 1.35094 10    for the integral and error estimates.
+From KernelObject[6, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.129846}. NIntegrate obtained 
+              -15               -17
+    6.95861 10    and 8.21513 10    for the integral and error estimates.
+From KernelObject[10, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[10, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0691275}. NIntegrate obtained 
+              -12               -13
+    5.03856 10    and 1.05748 10    for the integral and error estimates.
+From KernelObject[7, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = 
+    {0.265301877899390088633158057973560062237083911895751953125000000000}
+                                    -13               -16
+    . NIntegrate obtained 2.67915 10    and 7.78419 10
+     for the integral and error estimates.
+From KernelObject[9, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[8, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.184197}. NIntegrate obtained 
+              -14               -16
+    8.20162 10    and 1.36358 10    for the integral and error estimates.
+From KernelObject[2, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.157678}. NIntegrate obtained 
+              -15               -16
+    2.50412 10    and 5.14795 10    for the integral and error estimates.
+From KernelObject[9, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.163318}. NIntegrate obtained 
+             -14               -16
+    1.9394 10    and 3.97556 10    for the integral and error estimates.
+From KernelObject[9, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[3, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[3, local]:
+General::stop: Further output of NIntegrate::slwcon
+     will be suppressed during this calculation.
+From KernelObject[1, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[1, local]:
+General::stop: Further output of NIntegrate::slwcon
+     will be suppressed during this calculation.
+From KernelObject[5, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.1479946180348406}
+                                    -16               -16
+    . NIntegrate obtained 8.20079 10    and 1.80764 10
+     for the integral and error estimates.
+From KernelObject[8, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[10, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[10, local]:
+General::stop: Further output of NIntegrate::slwcon
+     will be suppressed during this calculation.
+From KernelObject[10, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.2828831461141945}
+                                    -12               -12
+    . NIntegrate obtained 5.73597 10    and 5.06465 10
+     for the integral and error estimates.
+From KernelObject[10, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[7, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.2631296044180743}
+                                   -13               -16
+    . NIntegrate obtained 2.1033 10    and 3.71627 10
+     for the integral and error estimates.
+From KernelObject[7, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[8, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.178094}. NIntegrate obtained 
+              -14               -15
+    7.36977 10    and 9.11704 10    for the integral and error estimates.
+From KernelObject[8, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[2, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.151106}. NIntegrate obtained 
+              -15               -16
+    1.69498 10    and 1.87421 10    for the integral and error estimates.
+From KernelObject[2, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[12, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0778996}. NIntegrate obtained 
+             -16              -17
+    2.4603 10    and 6.6494 10    for the integral and error estimates.
+From KernelObject[1, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0535859}. NIntegrate obtained 
+              -18               -18
+    9.26804 10    and 6.74403 10    for the integral and error estimates.
+From KernelObject[4, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[5, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.1381164985039658}
+                                    -13               -13
+    . NIntegrate obtained 1.21394 10    and 1.19915 10
+     for the integral and error estimates.
+From KernelObject[4, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.113002}. NIntegrate obtained 
+              -16               -18
+    1.08315 10    and 1.24241 10    for the integral and error estimates.
+From KernelObject[6, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[12, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0780836}. NIntegrate obtained 
+              -17              -17
+    6.44094 10    and 2.5449 10    for the integral and error estimates.
+From KernelObject[1, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.050695}. NIntegrate obtained 
+              -18               -19
+    1.34687 10    and 1.55174 10    for the integral and error estimates.
+From KernelObject[6, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = 
+    {0.184107782171860554637499163277425395790487527847290039062500000000}
+                                  -15               -17
+    . NIntegrate obtained 5.268 10    and 1.40356 10
+     for the integral and error estimates.
+From KernelObject[6, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[1, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0531624}. NIntegrate obtained 
+              -18               -18
+    4.09713 10    and 2.42156 10    for the integral and error estimates.
+From KernelObject[1, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[7, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[12, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[12, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0843393}. NIntegrate obtained 
+              -16               -17
+    3.31334 10    and 6.77152 10    for the integral and error estimates.
+From KernelObject[12, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[11, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0439123}. NIntegrate obtained 
+              -20               -21
+    7.33575 10    and 2.40108 10    for the integral and error estimates.
+From KernelObject[3, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0178933}. NIntegrate obtained 
+              -21               -21
+    4.60041 10    and 1.36333 10    for the integral and error estimates.
+From KernelObject[5, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[4, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.111995}. NIntegrate obtained 
+              -17               -19
+    7.58169 10    and 7.64058 10    for the integral and error estimates.
+From KernelObject[5, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.129027}. NIntegrate obtained 
+              -16               -18
+    2.93176 10    and 2.55959 10    for the integral and error estimates.
+From KernelObject[5, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[12, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[11, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0360929}. NIntegrate obtained 
+              -19               -19
+    4.96788 10    and 3.64431 10    for the integral and error estimates.
+From KernelObject[3, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0149332}. NIntegrate obtained 
+              -21               -22
+    4.52462 10    and 2.97193 10    for the integral and error estimates.
+From KernelObject[4, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.05501}. NIntegrate obtained 
+              -16               -17
+    1.19164 10    and 6.38382 10    for the integral and error estimates.
+From KernelObject[4, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[1, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[12, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[12, local]:
+General::stop: Further output of NIntegrate::slwcon
+     will be suppressed during this calculation.
+From KernelObject[11, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0371528}. NIntegrate obtained 
+              -18              -18
+    2.28826 10    and 1.4925 10    for the integral and error estimates.
+From KernelObject[11, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[5, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[3, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[4, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[3, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0132681}. NIntegrate obtained 
+              -22           -23
+    1.05736 10    and 2.7 10    for the integral and error estimates.
+From KernelObject[3, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[11, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+J=2
+kappa=-2
+From KernelObject[6, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.184159}. NIntegrate obtained 
+                              -10
+    0.000474615 and 5.77081 10    for the integral and error estimates.
+From KernelObject[7, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.242552}. NIntegrate obtained 
+              -8               -11
+    1.43102 10   and 8.02093 10    for the integral and error estimates.
+From KernelObject[6, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = 
+    {0.468026080176026062357186319218271819408982992172241210937500000000}
+                                    -6               -12
+    . NIntegrate obtained 1.18557 10   and 9.00401 10
+     for the integral and error estimates.
+From KernelObject[4, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.331995}. NIntegrate obtained 
+              -10               -14
+    2.16561 10    and 7.19383 10    for the integral and error estimates.
+From KernelObject[10, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.459804}. NIntegrate obtained 
+                              -10
+    0.000205815 and 2.28479 10    for the integral and error estimates.
+From KernelObject[6, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = 
+    {0.467017017732093701193329948750943003688007593154907226562500000000}
+                                    -7              -12
+    . NIntegrate obtained 3.49186 10   and 2.6405 10
+     for the integral and error estimates.
+From KernelObject[5, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = 
+    {0.417012068636726877454701245540036325110122561454772949218750000000}
+                                    -9               -13
+    . NIntegrate obtained 1.23189 10   and 1.70925 10
+     for the integral and error estimates.
+From KernelObject[3, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.311975}. NIntegrate obtained 
+              -11               -14
+    6.13731 10    and 2.93606 10    for the integral and error estimates.
+From KernelObject[2, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.3360817808262893}
+                                    -11               -14
+    . NIntegrate obtained 1.90538 10    and 1.32026 10
+     for the integral and error estimates.
+From KernelObject[1, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[1, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.3179621885353346}
+                                    -12               -15
+    . NIntegrate obtained 6.20153 10    and 9.66955 10
+     for the integral and error estimates.
+From KernelObject[7, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[7, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = 
+    {0.452758861403779743447228778308044638833962380886077880859375000000}
+                                    -9               -12
+    . NIntegrate obtained 7.77854 10   and 1.16962 10
+     for the integral and error estimates.
+From KernelObject[5, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.355236}. NIntegrate obtained 
+              -10               -14
+    8.99009 10    and 3.36904 10    for the integral and error estimates.
+From KernelObject[3, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[4, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.331701}. NIntegrate obtained 
+              -10               -14
+    1.66621 10    and 4.53377 10    for the integral and error estimates.
+From KernelObject[1, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.288087}. NIntegrate obtained 
+              -12               -14
+    4.99811 10    and 1.23665 10    for the integral and error estimates.
+From KernelObject[6, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = 
+    {0.459075078320021812139373196259839460253715515136718750000000000000}
+                                    -7               -12
+    . NIntegrate obtained 1.38752 10   and 1.83137 10
+     for the integral and error estimates.
+From KernelObject[6, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[7, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[7, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.4339199401048665}
+                                    -9               -13
+    . NIntegrate obtained 5.13147 10   and 2.89802 10
+     for the integral and error estimates.
+From KernelObject[7, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[2, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[2, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.272866}. NIntegrate obtained 
+              -11               -14
+    1.51784 10    and 4.14598 10    for the integral and error estimates.
+From KernelObject[8, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[3, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.30926}. NIntegrate obtained 
+              -11               -14
+    4.83144 10    and 3.92652 10    for the integral and error estimates.
+From KernelObject[5, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = 
+    {0.415552776471314349107655239379255363019183278083801269531250000000}
+                                    -10               -13
+    . NIntegrate obtained 6.64301 10    and 4.12954 10
+     for the integral and error estimates.
+From KernelObject[5, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[12, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.253478}. NIntegrate obtained 
+             -13               -15
+    6.8945 10    and 4.02848 10    for the integral and error estimates.
+From KernelObject[1, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.227605}. NIntegrate obtained 
+              -12               -15
+    3.99966 10    and 1.16169 10    for the integral and error estimates.
+From KernelObject[1, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[8, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.270665}. NIntegrate obtained 
+              -12               -15
+    2.06901 10    and 2.61422 10    for the integral and error estimates.
+From KernelObject[4, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[9, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.2397238698322698}
+                                    -13               -16
+    . NIntegrate obtained 2.25847 10    and 2.30305 10
+     for the integral and error estimates.
+From KernelObject[4, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.3810016004611041}
+                                    -10               -14
+    . NIntegrate obtained 1.29043 10    and 7.86623 10
+     for the integral and error estimates.
+From KernelObject[4, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[3, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.325753}. NIntegrate obtained 
+              -11               -14
+    3.81266 10    and 2.56269 10    for the integral and error estimates.
+From KernelObject[3, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[8, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[2, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.280199}. NIntegrate obtained 
+              -11               -14
+    1.21039 10    and 2.17654 10    for the integral and error estimates.
+From KernelObject[2, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[10, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.162128}. NIntegrate obtained 
+              -14               -15
+    7.27477 10    and 1.65387 10    for the integral and error estimates.
+From KernelObject[5, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[11, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.133957}. NIntegrate obtained 
+              -14               -16
+    2.11859 10    and 2.03302 10    for the integral and error estimates.
+From KernelObject[8, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.271339}. NIntegrate obtained 
+              -12               -15
+    1.66261 10    and 3.58514 10    for the integral and error estimates.
+From KernelObject[12, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.158177}. NIntegrate obtained 
+              -13               -16
+    5.52718 10    and 3.73338 10    for the integral and error estimates.
+From KernelObject[3, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[1, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[10, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.100097}. NIntegrate obtained 
+              -14               -16
+    5.63111 10    and 2.31501 10    for the integral and error estimates.
+From KernelObject[9, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.187546}. NIntegrate obtained 
+              -13               -16
+    1.80209 10    and 3.60351 10    for the integral and error estimates.
+From KernelObject[11, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[8, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[8, local]:
+General::stop: Further output of NIntegrate::slwcon
+     will be suppressed during this calculation.
+From KernelObject[5, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[11, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.132511}. NIntegrate obtained 
+              -14               -17
+    1.65018 10    and 6.44892 10    for the integral and error estimates.
+From KernelObject[7, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[7, local]:
+General::stop: Further output of NIntegrate::slwcon
+     will be suppressed during this calculation.
+From KernelObject[8, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.2816405911176498}
+                                    -12               -15
+    . NIntegrate obtained 1.33788 10    and 2.99936 10
+     for the integral and error estimates.
+From KernelObject[8, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[9, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.194029}. NIntegrate obtained 
+              -13               -16
+    1.43378 10    and 1.00746 10    for the integral and error estimates.
+From KernelObject[9, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[4, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[12, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[1, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.145572}. NIntegrate obtained 
+              -15              -16
+    6.16271 10    and 4.7333 10    for the integral and error estimates.
+From KernelObject[6, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[10, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.172555}. NIntegrate obtained 
+              -14               -17
+    4.42081 10    and 6.95847 10    for the integral and error estimates.
+From KernelObject[10, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[12, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.177501}. NIntegrate obtained 
+              -13               -16
+    4.42715 10    and 1.28162 10    for the integral and error estimates.
+From KernelObject[12, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[2, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.124186}. NIntegrate obtained 
+              -15               -16
+    2.26681 10    and 5.61338 10    for the integral and error estimates.
+From KernelObject[1, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.149047}. NIntegrate obtained 
+             -15               -16
+    5.3053 10    and 8.63699 10    for the integral and error estimates.
+From KernelObject[9, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[11, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.156939}. NIntegrate obtained 
+              -14               -16
+    1.33971 10    and 8.05417 10    for the integral and error estimates.
+From KernelObject[11, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[12, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[6, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0782901}. NIntegrate obtained 
+              -16              -16
+    3.97179 10    and 2.6746 10    for the integral and error estimates.
+From KernelObject[1, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.154006}. NIntegrate obtained 
+              -15              -16
+    3.42718 10    and 2.8966 10    for the integral and error estimates.
+From KernelObject[1, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[2, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.1372720779073721}
+                                    -15              -16
+    . NIntegrate obtained 3.19735 10    and 9.6894 10
+     for the integral and error estimates.
+From KernelObject[5, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0530003}. NIntegrate obtained 
+              -18               -18
+    9.57081 10    and 2.62666 10    for the integral and error estimates.
+From KernelObject[9, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[3, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[1, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[6, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0786401}. NIntegrate obtained 
+              -16               -17
+    1.04629 10    and 5.42109 10    for the integral and error estimates.
+From KernelObject[5, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0475521}. NIntegrate obtained 
+              -17               -17
+    7.60801 10    and 7.24668 10    for the integral and error estimates.
+From KernelObject[3, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.116175}. NIntegrate obtained 
+              -16               -18
+    2.79777 10    and 2.74919 10    for the integral and error estimates.
+From KernelObject[10, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0195998}. NIntegrate obtained 
+              -20               -21
+    1.12507 10    and 3.44195 10    for the integral and error estimates.
+From KernelObject[5, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0554462}. NIntegrate obtained 
+             -18              -18
+    3.2284 10    and 1.4444 10    for the integral and error estimates.
+From KernelObject[5, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[10, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0136855}. NIntegrate obtained 
+              -19               -20
+    2.99906 10    and 9.25303 10    for the integral and error estimates.
+From KernelObject[2, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0604117}. NIntegrate obtained 
+              -16               -18
+    7.52943 10    and 6.06519 10    for the integral and error estimates.
+From KernelObject[2, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[6, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[6, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0843393}. NIntegrate obtained 
+              -16               -17
+    3.39511 10    and 9.51626 10    for the integral and error estimates.
+From KernelObject[6, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[8, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0227365}. NIntegrate obtained 
+              -19               -20
+    2.11977 10    and 1.96009 10    for the integral and error estimates.
+From KernelObject[8, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[8, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0396057}. NIntegrate obtained 
+              -17               -17
+    8.61169 10    and 2.02977 10    for the integral and error estimates.
+From KernelObject[3, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[8, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.03862029045554777}
+                                   -18               -19
+    . NIntegrate obtained 2.6979 10    and 7.18831 10
+     for the integral and error estimates.
+From KernelObject[8, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[3, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.1156860729619421}
+                                    -16               -18
+    . NIntegrate obtained 1.96449 10    and 1.13628 10
+     for the integral and error estimates.
+From KernelObject[10, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0133557}. NIntegrate obtained 
+              -22               -22
+    9.00109 10    and 1.57233 10    for the integral and error estimates.
+From KernelObject[10, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[5, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[8, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[3, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0552345}. NIntegrate obtained 
+              -16               -18
+    1.44285 10    and 3.37861 10    for the integral and error estimates.
+From KernelObject[3, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[2, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[8, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[8, local]:
+General::stop: Further output of NIntegrate::slwcon
+     will be suppressed during this calculation.
+From KernelObject[10, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+J=3
+kappa=-4
+From KernelObject[8, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.365838}. NIntegrate obtained 
+                              -9
+    0.000227665 and 8.26384 10   for the integral and error estimates.
+From KernelObject[6, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[1, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.3591189798710262}
+                                    -11               -15
+    . NIntegrate obtained 1.63461 10    and 7.77444 10
+     for the integral and error estimates.
+From KernelObject[3, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.356896}. NIntegrate obtained 
+              -10               -14
+    6.27682 10    and 3.33157 10    for the integral and error estimates.
+From KernelObject[6, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = 
+    {0.446761109950116270389530725992699444759637117385864257812500000000}
+                                   -9             -13
+    . NIntegrate obtained 8.7727 10   and 5.648 10
+     for the integral and error estimates.
+From KernelObject[11, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[2, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.3796545313366252}
+                                    -11               -14
+    . NIntegrate obtained 7.75581 10    and 9.90608 10
+     for the integral and error estimates.
+From KernelObject[8, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.362957}. NIntegrate obtained 
+                             -10
+    0.000225404 and 2.4998 10    for the integral and error estimates.
+From KernelObject[11, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.285707}. NIntegrate obtained 
+              -12               -15
+    3.75898 10    and 2.23425 10    for the integral and error estimates.
+From KernelObject[12, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.27926}. NIntegrate obtained 
+              -13               -15
+    9.12905 10    and 1.48118 10    for the integral and error estimates.
+From KernelObject[10, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[10, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.393712}. NIntegrate obtained 
+              -7               -13
+    1.22577 10   and 2.36057 10    for the integral and error estimates.
+From KernelObject[1, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.308538}. NIntegrate obtained 
+              -11               -13
+    1.22706 10    and 1.61251 10    for the integral and error estimates.
+From KernelObject[6, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[6, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.4369192450257469}
+                                    -9               -13
+    . NIntegrate obtained 5.28491 10   and 9.30447 10
+     for the integral and error estimates.
+From KernelObject[3, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = 
+    {0.418219081625516068967396421385274152271449565887451171875000000000}
+                                 -10              -14
+    . NIntegrate obtained 4.32 10    and 8.6078 10
+     for the integral and error estimates.
+From KernelObject[12, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.284337}. NIntegrate obtained 
+              -13               -15
+    6.88394 10    and 2.58964 10    for the integral and error estimates.
+From KernelObject[2, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[2, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = 
+    {0.388697379400321119113925760757410898804664611816406250000000000000}
+                                    -11               -14
+    . NIntegrate obtained 5.62153 10    and 2.00442 10
+     for the integral and error estimates.
+From KernelObject[1, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.282271}. NIntegrate obtained 
+              -12               -13
+    9.13405 10    and 1.19022 10    for the integral and error estimates.
+From KernelObject[1, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[12, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[10, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.428573}. NIntegrate obtained 
+              -8               -13
+    5.53247 10   and 2.31849 10    for the integral and error estimates.
+From KernelObject[3, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[12, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.290352}. NIntegrate obtained 
+              -13               -15
+    5.25192 10    and 5.54805 10    for the integral and error estimates.
+From KernelObject[12, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[11, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.276235}. NIntegrate obtained 
+              -12               -16
+    2.82812 10    and 5.33992 10    for the integral and error estimates.
+From KernelObject[9, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[4, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[4, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.173552}. NIntegrate obtained 
+              -15               -17
+    3.23442 10    and 8.73942 10    for the integral and error estimates.
+From KernelObject[5, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.234144}. NIntegrate obtained 
+              -14               -16
+    5.52748 10    and 3.53171 10    for the integral and error estimates.
+From KernelObject[3, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = 
+    {0.412114413194913270163666219048081984510645270347595214843750000000}
+                                    -10               -13
+    . NIntegrate obtained 3.01093 10    and 2.78515 10
+     for the integral and error estimates.
+From KernelObject[3, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[6, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = 
+    {0.426089773686642935002222287721451721154153347015380859375000000000}
+                                    -9               -13
+    . NIntegrate obtained 3.29429 10   and 2.91227 10
+     for the integral and error estimates.
+From KernelObject[6, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[2, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[10, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[9, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.169893}. NIntegrate obtained 
+              -14               -17
+    1.32002 10    and 8.26965 10    for the integral and error estimates.
+From KernelObject[1, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[10, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.405703}. NIntegrate obtained 
+              -8              -13
+    2.79039 10   and 1.4305 10    for the integral and error estimates.
+From KernelObject[10, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[7, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.2917784495946280}
+                                    -13               -16
+    . NIntegrate obtained 2.25096 10    and 9.72164 10
+     for the integral and error estimates.
+From KernelObject[3, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[4, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[8, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[8, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.1945070864029095}
+                                    -15               -16
+    . NIntegrate obtained 1.18847 10    and 3.59098 10
+     for the integral and error estimates.
+From KernelObject[2, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.356445}. NIntegrate obtained 
+              -11               -15
+    4.09967 10    and 2.90971 10    for the integral and error estimates.
+From KernelObject[2, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[9, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.172715}. NIntegrate obtained 
+              -14               -16
+    1.00905 10    and 1.30264 10    for the integral and error estimates.
+From KernelObject[11, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.308751}. NIntegrate obtained 
+              -12               -16
+    2.12627 10    and 5.88708 10    for the integral and error estimates.
+From KernelObject[11, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[5, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.219868}. NIntegrate obtained 
+              -14               -16
+    4.14182 10    and 2.19037 10    for the integral and error estimates.
+From KernelObject[4, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.178717}. NIntegrate obtained 
+              -15               -16
+    2.45822 10    and 2.99595 10    for the integral and error estimates.
+From KernelObject[3, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[3, local]:
+General::stop: Further output of NIntegrate::slwcon
+     will be suppressed during this calculation.
+From KernelObject[9, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[7, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.230436}. NIntegrate obtained 
+              -13               -15
+    1.75624 10    and 6.89695 10    for the integral and error estimates.
+From KernelObject[12, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[10, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[1, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[10, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.126529}. NIntegrate obtained 
+              -16               -16
+    9.80888 10    and 3.78696 10    for the integral and error estimates.
+From KernelObject[1, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.150356}. NIntegrate obtained 
+              -16               -16
+    4.36417 10    and 1.99786 10    for the integral and error estimates.
+From KernelObject[5, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.2598225089816581}
+                                    -14               -16
+    . NIntegrate obtained 3.18205 10    and 7.23855 10
+     for the integral and error estimates.
+From KernelObject[5, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[4, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.18683}. NIntegrate obtained 
+              -13               -13
+    1.54125 10    and 1.52501 10    for the integral and error estimates.
+From KernelObject[4, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[2, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[2, local]:
+General::stop: Further output of NIntegrate::slwcon
+     will be suppressed during this calculation.
+From KernelObject[9, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.179969}. NIntegrate obtained 
+              -15               -17
+    7.34939 10    and 4.01941 10    for the integral and error estimates.
+From KernelObject[9, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[7, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.2800189890859340}
+                                    -13               -15
+    . NIntegrate obtained 1.37497 10    and 9.98059 10
+     for the integral and error estimates.
+From KernelObject[7, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[1, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[11, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[1, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.144732}. NIntegrate obtained 
+              -15               -15
+    1.08657 10    and 1.04414 10    for the integral and error estimates.
+From KernelObject[8, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.1844019867534842}
+                                    -16               -18
+    . NIntegrate obtained 4.59055 10    and 2.67188 10
+     for the integral and error estimates.
+From KernelObject[10, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.1380291603069972}
+                                    -16               -17
+    . NIntegrate obtained 2.91585 10    and 2.39499 10
+     for the integral and error estimates.
+From KernelObject[5, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[12, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.10568}. NIntegrate obtained 
+              -16               -16
+    2.62774 10    and 2.15848 10    for the integral and error estimates.
+From KernelObject[3, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0712614}. NIntegrate obtained 
+              -17               -18
+    3.84297 10    and 9.74531 10    for the integral and error estimates.
+From KernelObject[1, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[1, local]:
+General::stop: Further output of NIntegrate::slwcon
+     will be suppressed during this calculation.
+From KernelObject[4, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[4, local]:
+General::stop: Further output of NIntegrate::slwcon
+     will be suppressed during this calculation.
+From KernelObject[1, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.125331}. NIntegrate obtained 
+              -16               -16
+    3.29756 10    and 2.07469 10    for the integral and error estimates.
+From KernelObject[1, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[9, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[9, local]:
+General::stop: Further output of NIntegrate::slwcon
+     will be suppressed during this calculation.
+From KernelObject[11, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[11, local]:
+General::stop: Further output of NIntegrate::slwcon
+     will be suppressed during this calculation.
+From KernelObject[3, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0651004}. NIntegrate obtained 
+              -15              -15
+    2.20906 10    and 2.3216 10    for the integral and error estimates.
+From KernelObject[10, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = 
+    {0.139718050933820037021529381071616171539062634110450744628906250000}
+                                    -17              -18
+    . NIntegrate obtained 3.35771 10    and 2.0233 10
+     for the integral and error estimates.
+From KernelObject[10, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[12, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0895021}. NIntegrate obtained 
+              -16               -16
+    1.67298 10    and 1.59267 10    for the integral and error estimates.
+From KernelObject[6, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0464495}. NIntegrate obtained 
+              -20               -20
+    3.90181 10    and 1.42014 10    for the integral and error estimates.
+From KernelObject[4, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.07377408786835032}
+                                    -19               -20
+    . NIntegrate obtained 5.54149 10    and 8.21452 10
+     for the integral and error estimates.
+From KernelObject[3, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0629027}. NIntegrate obtained 
+             -17               -18
+    1.1755 10    and 3.29689 10    for the integral and error estimates.
+From KernelObject[3, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[11, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[11, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0221351}. NIntegrate obtained 
+              -21               -22
+    2.43499 10    and 2.30718 10    for the integral and error estimates.
+From KernelObject[8, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[12, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0803828}. NIntegrate obtained 
+              -17               -18
+    2.35585 10    and 2.89856 10    for the integral and error estimates.
+From KernelObject[12, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[5, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[4, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0482354}. NIntegrate obtained 
+              -18               -18
+    2.19624 10    and 1.30147 10    for the integral and error estimates.
+From KernelObject[8, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.098689}. NIntegrate obtained 
+              -16               -18
+    3.36698 10    and 8.02387 10    for the integral and error estimates.
+From KernelObject[8, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[11, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0186763}. NIntegrate obtained 
+              -22               -23
+    1.57665 10    and 7.48205 10    for the integral and error estimates.
+From KernelObject[6, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0367077}. NIntegrate obtained 
+              -21               -21
+    6.21556 10    and 2.43984 10    for the integral and error estimates.
+From KernelObject[8, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[8, local]:
+General::stop: Further output of NIntegrate::slwcon
+     will be suppressed during this calculation.
+From KernelObject[11, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[4, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.053543}. NIntegrate obtained 
+              -19               -20
+    4.64829 10    and 9.31211 10    for the integral and error estimates.
+From KernelObject[4, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[11, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = {0.0120114}. NIntegrate obtained 
+              -23               -24
+    2.12788 10    and 6.14022 10    for the integral and error estimates.
+From KernelObject[11, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[6, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[6, local]:
+NIntegrate::ncvb: 
+   NIntegrate failed to converge to prescribed accuracy after 9
+     recursive bisections in kk near {kk} = 
+    {0.0379109321235625751529696447761352828820236027240753173828125000000}
+                                    -21               -21
+    . NIntegrate obtained 4.91203 10    and 2.22545 10
+     for the integral and error estimates.
+From KernelObject[6, local]:
+General::stop: Further output of NIntegrate::ncvb
+     will be suppressed during this calculation.
+From KernelObject[4, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[3, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+From KernelObject[6, local]:
+NIntegrate::slwcon: 
+   Numerical integration converging too slowly; suspect one of the following:
+    singularity, value of the integration is 0, highly oscillatory integrand,
+    or WorkingPrecision too small.
+J=3
+kappa=-3
