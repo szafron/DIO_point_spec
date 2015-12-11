@@ -1,8 +1,8 @@
 (* ::Package:: *)
 
-Zal=1./137.;
+Zal=5.`200/137;
 y=Zal;
-m=1.;
+m=1.`200;
 NumBR=15;
 BohrRadius=1/(m*Zal);
 Efm=m (Sqrt[1-Zal^2]);
@@ -42,8 +42,8 @@ Emin=10^-5;
 Emax=Efm;
 Estep =0.005;
 Jmin=1;
-Jmax=31;
-name="Zal1_j";
+Jmax=41;
+name="Zal5_j";
 dd=".dat";
 Print["J=0"];
 specJ0=ParallelTable[{Ee,1/(4 Ee^2)NEeJ0[Ee,0,-1] },{Ee,Emin,Emax,Estep}];
