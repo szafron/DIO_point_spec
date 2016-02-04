@@ -1,6 +1,6 @@
 (* ::Package:: *)
 
-Zal=5.`200/137;
+Zal=4.`200/137;
 y=Zal;
 m=1.`200;
 NumBR=15;
@@ -40,14 +40,14 @@ lk=jk+1/2 kappa/Abs[kappa];
 
 Emin=10^-5;
 Emax=Efm;
-Estep =0.005;
+Estep =0.01;
 Jmin=1;
-Jmax=41;
-name="Zal5_j";
+Jmax=51;
+name="Zal4_j";
 dd=".dat";
 Print["J=0"];
 specJ0=ParallelTable[{Ee,1/(4 Ee^2)NEeJ0[Ee,0,-1] },{Ee,Emin,Emax,Estep}];
-Export["Zal1_j0.dat",specJ0];
+Export[name <> "0.dat",specJ0];
 Do[Print["J=",J];
 Print["kappa=",kappa];
 specJ=ParallelTable[{Ee,1/(4 Ee^2)NEe[Ee,J,kappa] },{Ee,Emin,Emax,Estep}];
